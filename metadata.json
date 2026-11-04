@@ -1,0 +1,6 @@
+{
+  "name": "Leitor Reflow PDF - E-Reader para Celular e Tablet",
+  "description": "Leitor de PDF responsivo com reflow de texto adaptável para celulares e tablets, controle de fonte, modo noturno, voz em áudio e salvamento automático.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
